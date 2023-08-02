@@ -1,0 +1,10 @@
+1.	https://analyticsindiamag.com/10-important-pandas-interview-questions-every-beginner-must-know/
+
+2.	https://medium.com/@kacawi/tutorial-pandas-data-structures-736ded97842
+
+3.	https://atraininghub.com/data-analysis-with-python-and-pandas-interview-questions-and-answers/
+
+4.	https://www.knowledgepowerhouse.com/top-50-pandas-interview-preparation-questions/2504
+
+5.	https://www.w3resource.com/python-exercises/pandas/index.php
+

@@ -1,0 +1,10 @@
+#1_WAP  to print  TWINKLE
+
+print ("Twinkle")
+
+#2_Use REPL and print the table of 5 using it
+
+#3_Install an external module and use it to perform a operation of your interest
+from playsound import playsound
+playsound('C:\Users\ASUS\Downloads\Pasoori.MP3')
+
